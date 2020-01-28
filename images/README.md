@@ -15,7 +15,7 @@ Login to Docker Account over Cli
 
 
 2. Build the Image from Dockerfile. `vamsic999/<image-name>:tag`
-docker build -t `vamsic999/image-name:tag` 
+docker build -t `vamsic999/image-name:tag` .
 
 
 3. Push the image centrally
